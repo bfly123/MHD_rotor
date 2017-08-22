@@ -1,0 +1,6 @@
+ Example:           3
+ CT method:           1
+ Scheme:          56
+ Solver:          33
+ CFL,finaltime,NRK=   5.0000000745058060E-002  0.15000000596046448                3
+ Continue           0
